@@ -45,6 +45,7 @@ A production-ready AI observability and evaluation platform for RAG (Retrieval-A
 ├── app.py                  # Main Streamlit Dashboard Application
 ├── requirements.txt        # Project Dependencies
 ├── test_backend.py         # Local backend integration test suite
+├── run_benchmark.py        # Benchmarking script and metrics compiler
 ├── .env                    # System Environment Variables (API Keys)
 ├── src/
 │   ├── __init__.py
